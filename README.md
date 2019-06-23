@@ -20,9 +20,8 @@ tensorflow<br>
 
 # References
 
-- Deep Learning with Python 1st Edition
-by Francois Chollet
--Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition
+- Deep Learning with Python 1st Edition by Francois Chollet
+- Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition
 by Andreas C. Müller (Author), Sarah Guido
 - https://github.com/CristiVlad25/ml-sklearn
 - https://towardsdatascience.com/precision-vs-recall-386cf9f89488
