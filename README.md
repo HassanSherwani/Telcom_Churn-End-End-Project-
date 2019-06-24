@@ -25,4 +25,5 @@ tensorflow<br>
 by Andreas C. Müller (Author), Sarah Guido
 - https://github.com/CristiVlad25/ml-sklearn
 - https://towardsdatascience.com/precision-vs-recall-386cf9f89488
+- https://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
 
